@@ -1,2 +1,2 @@
-# fit-font.github.io
-&lt;fit-font> Web Component
+&lt;fit-text> Web Component
+# See https://fit-text.github.io
